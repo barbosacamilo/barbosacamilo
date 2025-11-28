@@ -1,5 +1,5 @@
 ## About me
-I like creating things from scratch and understanding the abstractions behind them as much as I can. I enjoy solving problems, building my own software, and running (yes, actually running with my legs, not just running code).
+I like creating things from scratch and understanding the abstractions behind them as much as I can. I enjoy solving problems, building my own software, and running.
 
 ## Projects
 - I built a minimalist JavaScript UI library called [sesamo](https://www.npmjs.com/package/sesamo) — kind of like React, but much smaller and more bare-bones.
