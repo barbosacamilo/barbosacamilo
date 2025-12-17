@@ -12,3 +12,4 @@ I like creating things from scratch and understanding the abstractions behind th
 - C/C++ for systems programming and LeetCode practice.
 - Git and GitHub for version control.
 - npm as my package manager of choice.
+- Vitest as my testing library.
