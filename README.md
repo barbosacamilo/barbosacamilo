@@ -1,15 +1,21 @@
 ## About me
+
 I like creating things from scratch and understanding the abstractions behind them as much as I can. I enjoy solving problems, building my own software, and running.
 
 ## Projects
-- I built a minimalist JavaScript UI library called [sesamo](https://www.npmjs.com/package/sesamo).
-- I built a TypeScript code formatter called [komodoro](https://www.npmjs.com/package/komodoro).
 
-## Tools & tech
-- VS Code for most of my coding.
+- **Sesamo** is a minimalist JavaScript UI library. [GitHub](https://github.com/barbosacamilo/sesamo) - [npm](https://www.npmjs.com/package/sesamo)
+- **Komodoro** is a TypeScript code formatter. [GitHub](https://github.com/barbosacamilo/komodoro) - [npm](https://www.npmjs.com/package/komodoro)
+- **Linetalk** is a lightweight terminal chat system. [GitHub](https://github.com/barbosacamilo/linetalk)
+
+## Tools and tech
+
 - HTML, CSS, and JavaScript/TypeScript for web development.
-- Node.js as my preferred runtime.
-- C/C++ for systems programming and LeetCode practice.
+- Node.js as my JavaScript/TypeScript runtime.
+- Express.js for building backend services and REST APIs.
+- Databases: PostgreSQL, MySQL, MongoDB.
 - Git and GitHub for version control.
-- npm as my package manager of choice.
-- Vitest as my testing library.
+- npm as my package manager.
+- Vitest for testing.
+- VS Code as my code editor.
+- Python for scripting and competitive programming.
