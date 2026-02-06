@@ -1,21 +1,39 @@
-## About me
-
-I like creating things from scratch and understanding the abstractions behind them as much as I can. I enjoy solving problems, building my own software, and running.
-
 ## Projects
 
-- **Sesamo** is a minimalist JavaScript UI library. [GitHub](https://github.com/barbosacamilo/sesamo) - [npm](https://www.npmjs.com/package/sesamo)
-- **Komodoro** is a TypeScript code formatter. [GitHub](https://github.com/barbosacamilo/komodoro) - [npm](https://www.npmjs.com/package/komodoro)
-- **Linetalk** is a lightweight terminal chat system. [GitHub](https://github.com/barbosacamilo/linetalk)
+- [**sesamo**](https://github.com/barbosacamilo/sesamo): a UI library for building web apps ([npm](https://www.npmjs.com/package/sesamo))
+- [**komodoro**](https://github.com/barbosacamilo/komodoro): a TypeScript code formatter
+- [**linetalk**](https://github.com/barbosacamilo/linetalk): a lightweight terminal chat system
+- [**speech-to-text**](https://github.com/barbosacamilo/speech-to-text): a web-based streaming speech-to-text app
 
-## Tools and tech
+## Programming Languages
+- JavaScript
+- TypeScript
+- Python
+- C / C++
+- SQL
+- HTML / CSS
 
-- HTML, CSS, and JavaScript/TypeScript for web development.
-- Node.js as my JavaScript/TypeScript runtime.
-- Express.js for building backend services and REST APIs.
-- Databases: PostgreSQL, MySQL, MongoDB.
-- Git and GitHub for version control.
-- npm as my package manager.
-- Vitest for testing.
-- VS Code as my code editor.
-- Python for scripting and competitive programming.
+## Frontend
+- React
+- Next.js
+- Tailwind CSS
+- Vite
+
+## Backend
+- Node.js
+- Express.js
+- Django
+
+## Databases
+- PostgreSQL
+- MySQL
+- MongoDB
+- SQLite
+
+## Dev Tools
+- Git / GitHub
+- Docker / Docker Compose
+
+## Testing
+- Vitest
+- Jest
