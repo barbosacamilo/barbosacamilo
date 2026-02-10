@@ -4,6 +4,7 @@
 - [**komodoro**](https://github.com/barbosacamilo/komodoro): a TypeScript code formatter
 - [**linetalk**](https://github.com/barbosacamilo/linetalk): a lightweight terminal chat system
 - [**speech-to-text**](https://github.com/barbosacamilo/speech-to-text): a web-based streaming speech-to-text app
+- [**httplab**](https://github.com/barbosacamilo/httplab): a simple web-based REST API tester ([npm](https://www.npmjs.com/package/httplab))
 
 ## Tech
 
