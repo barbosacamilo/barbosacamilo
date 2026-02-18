@@ -9,6 +9,6 @@
 ## Tech
 
 - **Languages**: JavaScript, TypeScript, Python, C/C++, HTML, CSS
-- **Frameworks/Libraries**: React, Express.js, Django, Tailwind
-- **Databases**: PostgreSQL, MySQL, SQLite
+- **Frameworks/Libraries**: React, Vue.js, Express.js, Django, Tailwind
+- **Databases**: PostgreSQL, MySQL, SQLite, MongoDB
 - **Dev Tools**: Git, GitHub, Docker, Postman
