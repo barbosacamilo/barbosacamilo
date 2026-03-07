@@ -8,7 +8,7 @@
 
 ## Tech
 
-- **Languages**: JavaScript, TypeScript, Python, C/C++, HTML, CSS, Node.js **(runtime environment)**
+- **Languages**: JavaScript, TypeScript, Python, Java, C/C++, HTML, CSS, Node.js **(runtime environment)**
 - **Frameworks/Libraries**: React, Vue.js, Express.js, Django, Tailwind, Vitest
 - **Databases**: PostgreSQL, MySQL, SQLite, MongoDB
 - **Dev Tools**: Git, GitHub, Docker, Postman
