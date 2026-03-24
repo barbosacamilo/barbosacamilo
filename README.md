@@ -1,5 +1,6 @@
 ## Projects
 
+- [**TableGraph**](https://github.com/barbosacamilo/tablegraph): Visualize database tables and relationships as an interactive graph in your browser ([npm](https://www.npmjs.com/package/tablegraph))
 - [**sesamo**](https://github.com/barbosacamilo/sesamo): a UI library for building web apps ([npm](https://www.npmjs.com/package/sesamo))
 - [**komodoro**](https://github.com/barbosacamilo/komodoro): a TypeScript code formatter
 - [**linetalk**](https://github.com/barbosacamilo/linetalk): a lightweight terminal chat system
